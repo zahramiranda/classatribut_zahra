@@ -1,0 +1,2 @@
+staticvariable.Staticvariable
+staticvariable.Display
